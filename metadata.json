@@ -1,0 +1,6 @@
+{
+  "name": "Compass - Contemplative Focus & Life Architecture",
+  "description": "A serene mindful productivity sanctuary bridging daily deep focus with long-term life horizons, gentle reflection, and impulse awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
